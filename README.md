@@ -1,7 +1,8 @@
 # Instrucciones:
 
 # Base de datos:
-Se debe ejecutar el script "Script Prueba Técnica Punto Pago.sql" en el servidor respectivo para crear la base de datos, las tablas "Aeropuerto", "Vuelo" y "EscalaVuelo", y sus respectivos procedimientos.
+- Se debe tener instalado el motor de base de datos SQL Server, adicionalmente para la ejecución del script se puede instalar la herramienta "Microsoft SQL Server Management Studio".
+- Se debe ejecutar el script "Script Prueba Técnica Punto Pago.sql" en el servidor respectivo para crear la base de datos, las tablas "Aeropuerto", "Vuelo" y "EscalaVuelo", y sus respectivos procedimientos.
 
 # Nota:
 Este script igualmente contiene datos de prueba en las tablas "Aeropuerto", "Vuelo" y "EscalaVuelo".
