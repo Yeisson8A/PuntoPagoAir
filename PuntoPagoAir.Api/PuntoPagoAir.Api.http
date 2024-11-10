@@ -1,0 +1,6 @@
+@PuntoPagoAir.Api_HostAddress = http://localhost:5100
+
+GET {{PuntoPagoAir.Api_HostAddress}}/api/ItinearioVuelo/
+Accept: application/json
+
+###
